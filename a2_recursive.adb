@@ -1,7 +1,4 @@
--- a2_recursive.adb : Solution to n-Queens problem using recursion (based on Wirth)
--- Legacy Systems - CIS*3190 (DE)
--- Assignment 2 - M. Wirth
--- Due: Feb 20, 2013
+-- a2_recursive.adb : Solution to n-Queens problem using recursion (based on Wirth's algorithm)
 -- Author: Max Gardiner
 
 with Ada.Command_line; use Ada.Command_Line;

@@ -1,6 +1,4 @@
 -- a2_stack.adb : Solution to n-Queens problem using backtracking and a stack ADT for results
--- Legacy Systems - CIS*3190 (DE)
--- Due: Feb 20, 2013
 -- Author: Max Gardiner
 
 with Ada.Command_line; use Ada.Command_Line;

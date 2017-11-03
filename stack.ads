@@ -1,7 +1,4 @@
 -- stack.ads : header for stack ADT to be used by a2_stack.adb solution
--- Legacy Systems - CIS*3190 (DE)
--- Assignment 2 - M. Wirth
--- Due: Feb 20, 2013
 -- Author: Max Gardiner
 
 -- Abstract Data Type: Stack
